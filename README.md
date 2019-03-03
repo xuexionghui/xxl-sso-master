@@ -36,7 +36,8 @@ XXL-SSO 是一个分布式单点登录框架。只需要登录一次就可以访
 ## Documentation
 - [中文文档](http://www.xuxueli.com/xxl-sso/)
 
-
+## csdn文章总结的位置：
+https://blog.csdn.net/qq_37948985/article/details/88095377
 ## Features
 1. 简洁：API直观简洁，可快速上手
 2. 轻量级：环境依赖小，部署与接入成本较低
